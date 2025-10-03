@@ -1,1 +1,1 @@
-# Happy-Ladybugs-ALGO
+# Happy-Ladybugs-ALGO.This program determines whether all ladybugs can be made happy. It counts the occurrences of each color, checks if any color appears only once (making happiness impossible), and then considers if empty spaces allow rearrangement or if the current arrangement already satisfies the happiness condition, returning "YES" or "NO" accordingly.
